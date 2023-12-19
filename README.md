@@ -8,6 +8,5 @@ cả hai thành phần này, đặt ra thách thức rất lớn trong việc gi
 
 #Trong project này, chúng ta sẽ xây dựng một chương trình VQA sử dụng mô hình Vision Transformer cho hình
 ảnh và RoBERTa cho xử lý ngôn ngữ. Input và output của chương trình như sau:
-
-#• Input: Một cặp hình ảnh và câu hỏi bằng ngôn ngữ tự nhiên.
-#• Output: Câu trả lời cho câu hỏi về hình ảnh.
+/n• Input: Một cặp hình ảnh và câu hỏi bằng ngôn ngữ tự nhiên.
+/n• Output: Câu trả lời cho câu hỏi về hình ảnh.
